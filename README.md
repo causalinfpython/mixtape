@@ -1,1 +1,1 @@
-# proj_3
+# Python resources for Causal Inference: The Mixtape 
